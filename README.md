@@ -1,35 +1,46 @@
-<h1 align="center">Hi 👋, I'm Shanuka Fernando</h1>
-<h3 align="center">A passionate Web application developer & Freelancer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=shanukafer98&label=Profile%20views&color=0e75b6&style=flat" alt="shanukafer98" /> 
+<br/>
+<br/>
+
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Coding" /></p>
+
+- 🔭 I’m currently working on **GRANTHAGRA-'Android Application for Students.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **GoLang 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, Design or DevOps .**
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/shanukafer98/shanukafer98/issues) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+
+<br/>
+<br/>
+
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=shanukafer98&style=flat&color=blue"> •   
+  <a href="https://user-badge.committers.top/india_private/shanukafer98"><img src="https://user-badge.committers.top/india_private/shanukafer98.svg"></a> •
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/shanukafer98?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/shanukafer98?label=Stars" alt="Total Stars"> •
+  <a href="https://github.com/sponsors/shanukafer98"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
-<p align="center" style="margin-top: 10px;"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=shanukafer98" alt="shanukafer98" />
-    </a> 
+#
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=shanukafer98&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+<p align="center">
+  <img height="150" width="150" src="https://github.com/shanukafer98/shanukafer98/blob/main/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanukafer98&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/shanukafer98/shanukafer98/blob/main/WEBP/right.webp">
 </p>
 
-- 🌱 I’m currently learning **REDUX Toolkit**
+#
 
-- 👯 I’m looking to collaborate on **Web Application Projects**
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **shanukafer98@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/shanukafer98" target="blank" style="margin-right: 10px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanukafer98" height="30" width="40" />
-    </a>
-    <a href="https://www.hackerrank.com/shanukafer98" target="blank" style="margin-right: 10px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shanukafer98" height="30" width="40" />
-    </a>
-</p>
-
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
