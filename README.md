@@ -9,7 +9,7 @@
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Shanuka Fernando" /></p>
 
-- 🔭 I’m currently working on **Web Application Projects**
+- 🔭 I’m currently working on **Wedding Service Application**
 - 🌱 I’m currently learning **REDUX Toolkit**
 - 👯 I’m looking to collaborate on **Web Application Projects**
 - 💬 Ask me about **MERN**
